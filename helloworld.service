@@ -1,0 +1,5 @@
+[Unit]
+Description="Hello World Script"
+
+[Service]
+ExecStart=PATH/helloworld_script.sh
