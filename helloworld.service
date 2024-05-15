@@ -2,4 +2,4 @@
 Description="Hello World Script"
 
 [Service]
-ExecStart=PATH/helloworld_script.sh
+ExecStart=$SCRIPT_PATH/helloworld_script.sh
